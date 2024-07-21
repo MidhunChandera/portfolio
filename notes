@@ -1,0 +1,19 @@
+      <section class="home w-100 xs-12 sm-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 xs-12 ">
+                    <div class="hometext " style="margin-top: 100px;">
+                        <p>Hello I'm</p>
+                        <h1>Web Designer</h1>
+                        <h2>Midhun K</h2>
+                        <p>I specialize in creating dynamic, responsive websites with a focus on user experience and innovative design. Explore my projects to see how I transform ideas into digital solutions that are both visually appealing and highly functional. Let's build something amazing together!</p>
+                    <a href=""><button>Explore</button></a>
+                    </div>
+                </div>
+                <div class="col-md-6 xs-12">
+                    <img class="home-img" style="margin-left: 130px;margin-top: 100px;" width="350px" src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" alt="">
+                </div>
+            </div>
+        </div>
+      </section>
+                    
